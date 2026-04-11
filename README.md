@@ -53,24 +53,13 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-![Fernanda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandaMoura96&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaMoura96&layout=compact&theme=default&hide_border=true&title_color=0A66C2)
-
-</div>
-
----
 
 ## 🎯 Objetivos para 2025
 
 - [x] Iniciar o Google Data Analytics Certificate
 - [x] Criar primeiro projeto SQL com dados reais
-- [ ] Concluir o Google Data Analytics Certificate
 - [x] Desenvolver um dashboard completo em Power BI
+- [ ] Concluir o Google Data Analytics Certificate
 - [ ] Publicar um projeto de análise exploratória em Python
 
 ---
