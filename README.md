@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Fernanda Moura! 👋
 
-### Analista de Dados Júnior | SQL · Python · BI · Excel
+### Analista de Dados Júnior | SQL · Python · PowerBI · Excel
 
 *Apaixonada por transformar dados em decisões — e por documentar cada passo dessa jornada.*
 
