@@ -48,9 +48,9 @@
 
 ---
 
-### 🔁 [Python — Controle e Repetição](https://github.com/FernandaMoura96/-python-controle-e-repeticao)
-> Exercícios focados em estruturas de controle e laços de repetição — Mundo 02 do curso de Python.
-
+### 🔁 [Marketing Ciclystic](https://github.com/FernandaMoura96/cyclistic-marketing))
+>Idenficação do padrão de consumo de clientes para conversão de clientes em assiantes.
+>Utiliza **Google Sheets,SQLite, Linguagem SQL intermediária**
 ---
 
 
@@ -59,7 +59,7 @@
 - [x] Iniciar o Google Data Analytics Certificate
 - [x] Criar primeiro projeto SQL com dados reais
 - [x] Desenvolver um dashboard completo em Power BI
-- [ ] Concluir o Google Data Analytics Certificate
+- [x] Concluir o Google Data Analytics Certificate
 - [ ] Publicar um projeto de análise exploratória em Python
 
 ---
