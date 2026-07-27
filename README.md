@@ -17,7 +17,7 @@
 
 - 🏢 Trabalho na **Ambev**, em Minas Gerais
 - 📊 Em transição para a área de **Análise de Dados**
-- 🎓 Concluindo o **Google Data Analytics Certificate**
+- 🎓 Certificada pelo  **Google Data Analytics Certificate**
 - 🔍 Foco atual em **SQL, Python, Power BI e Excel**
 - 💡 Acredito que dados bem analisados contam histórias poderosas
 - 📝 Uso o GitHub para documentar minha evolução e construir meu portfólio
@@ -48,7 +48,7 @@
 
 ---
 
-### 🔁 [Marketing Ciclystic](https://github.com/FernandaMoura96/cyclistic-marketing))
+### 🔁 [Marketing Ciclystic](https://github.com/FernandaMoura96/cyclistic-marketing) 
 >Idenficação do padrão de consumo de clientes para conversão de clientes em assiantes.
 >Utiliza **Google Sheets,SQLite, Linguagem SQL intermediária**
 ---
