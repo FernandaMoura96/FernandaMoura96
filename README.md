@@ -56,11 +56,10 @@
 
 ## 🎯 Objetivos para 2025
 
-- [x] Iniciar o Google Data Analytics Certificate
 - [x] Criar primeiro projeto SQL com dados reais
 - [x] Desenvolver um dashboard completo em Power BI
 - [x] Concluir o Google Data Analytics Certificate
-- [ ] Publicar um projeto de análise exploratória em Python
+- [x] Publicar um projeto de análise exploratória em Python
 
 ---
 
